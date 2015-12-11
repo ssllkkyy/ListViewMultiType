@@ -1,0 +1,2 @@
+# ListViewMultiType
+listView实现多种item不同布局类型
